@@ -1,4 +1,4 @@
-@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);.map-container-inner{width:100%;height:50vh}
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);@font-face{font-family:Impact;src:url(ImpactRegular.4475a83b1d05025a19aa.eot);src:url(ImpactRegular.4475a83b1d05025a19aa.eot?#iefix) format("embedded-opentype"),url(ImpactRegular.b18eb6904cae79816b98.woff) format("woff"),url(ImpactRegular.9d0962f073f288d79983.ttf) format("truetype")}.map-container-inner{width:100%;height:50vh}
 
 /*! bulma.io v0.5.3 | MIT License | github.com/jgthms/bulma */@-webkit-keyframes spinAround{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}@keyframes spinAround{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}
 
